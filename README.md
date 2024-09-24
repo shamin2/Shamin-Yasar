@@ -1,51 +1,62 @@
+# Enhanced version of the GitHub README with additional GIFs and better organization
 
-### Hi there 👋, I'm Shamin Yasar!
+enhanced_readme_content = """
+### Welcome to My GitHub! 👋 I'm Shamin Yasar!
 
-![Header](https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif)
+![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
-I'm a Computer Science major with a minor in Mathematics at Memorial University of Newfoundland, pursuing a diverse career in web and software development. Passionate about leveraging technology to solve real-world problems, I am currently honing my skills in React, Python, and machine learning.
+As a passionate Computer Science student at Memorial University of Newfoundland, I thrive on building innovative solutions with React, Python, and beyond. I'm deeply committed to leveraging technology to solve complex problems and enhance everyday life.
 
 ---
 
-#### 📚 Education
-- **Bachelor of Science in Computer Science and Minor in Mathematics**
-- **Memorial University of Newfoundland** - St. John’s, NL
+#### 🎓 Education
+
+![Education](https://media.giphy.com/media/l0IylOPCNkiqOgMyA/giphy.gif)
+
+- **Bachelor of Science in Computer Science, Minor in Mathematics**
+- **Memorial University of Newfoundland**
 - **GPA:** 3.69 | **Average:** 81.1%
-- **Awards:** IUGS Entrance Scholarship for Undergraduate Students worth $12,000
+- **Awards:** IUGS Entrance Scholarship worth $12,000
 
-#### 💻 Tech Stack
-- **Languages:** Java, Python, C, C#, HTML5, CSS3, JavaScript, TypeScript, PHP, MATLAB, R
-- **Frameworks:** React.js, Flask, Flutter, Node.js, Express.js
-- **Databases:** MySQL, SQLite, PostgreSQL, MongoDB
-- **Tools:** PyCharm, VS Code, Git, Jupyter, Eclipse, BlueJ, Anaconda, NumPy, TensorFlow, Jira, Postman
-- **Data Viz:** PowerBI, Tableau, PowerPoint, Google Data Studio
+#### 🚀 Tech Stack
 
-#### 🛠️ Projects
-- [**Personal Portfolio Website**](https://github.com/shamin2/Portfolio_Website) - A responsive portfolio website using React.js, HTML, and SCSS, integrated with Sanity CMS.
-- [**Spend Smart Web App**](https://github.com/shamin2/Spend_Smart_App) - A budget management app for financial literacy and expense tracking.
-- [**Work Force Navigator**](https://github.com/shamin2/WorkForce-Navigator) - An Employee Management System using Java GUI and MySQL.
-- [**Movie Recommender**](https://github.com/shamin2/Movie-recommender-ML) - A movie recommender system using machine learning, hosted on Streamlit.
-- [**Ultimate Tic Tac Toe**](https://github.com/shamin2/Ultimate-Tic-Tac-Toe-Game) - A multiplayer gaming experience using Python for server API and game logic.
-- [**Timely Tales App**](https://github.com/shamin2/Timely-Tales) (In Progress) - A full-stack productivity app for tracking journal entries, tasks, goals, habits, moods, and schedules.
+![TechStack](https://media.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif)
 
-Explore additional projects on my [GitHub](https://github.com/shamin2).
+- **Languages:** Java, Python, C++, HTML, CSS, JavaScript
+- **Frameworks/Libraries:** React, Flask, TensorFlow, Node.js
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, VS Code, Jupyter
 
-#### 🌐 Social Links
-- [Portfolio](https://shamin-portfolio.netlify.app/)
-- [LinkedIn](https://www.linkedin.com/in/shamin-yasar-768a322a5/)
-- [GitHub](https://github.com/shamin2)
+#### 🔨 Projects
 
-#### 📈 Professional Skills
-- Exceptional communicator with a flair for teamwork and leadership.
-- Highly adaptable and creative problem solver.
+![Projects](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-#### 🌟 Extracurricular Activities
-- Former Vice President of Events and Planning, International Students Resource Centre, MUN.
-- Campus Tour Guide at MUN, providing insights into campus life and academics.
+- **[Personal Portfolio Website](https://github.com/shamin2/Portfolio_Website)** - Built using React.js, integrated with Sanity CMS.
+- **[Spend Smart Web App](https://github.com/shamin2/Spend_Smart_App)** - A financial literacy web app designed to assist students in managing their budgets.
+- **[Work Force Navigator](https://github.com/shamin2/WorkForce-Navigator)** - A Java-based Employee Management System that optimizes HR tasks.
+- **[Movie Recommender](https://github.com/shamin2/Movie-recommender-ML)** - Utilizes machine learning for personalized movie suggestions.
+- **[Ultimate Tic Tac Toe](https://github.com/shamin2/Ultimate-Tic-Tac-Toe-Game)** - A multiplayer game project enhancing traditional Tic Tac Toe.
+- **[Timely Tales App](https://github.com/shamin2/Timely-Tales)** - In development: Tracks personal goals, moods, and schedules.
 
-#### 🌍 I'm currently looking for new opportunities!
-Feel free to [reach out](mailto:syasar@mun.ca) if you want to talk about potential collaborations or just chat about technology and innovation!
+#### 🌟 Extracurriculars & Volunteering
+
+![Volunteering](https://media.giphy.com/media/26BRBupa6nRXMGBP2/giphy.gif)
+
+- **Vice President, Events and Planning** at International Students Resource Centre, MUN.
+- **Campus Tour Guide** at MUN, enriching prospective students' experiences.
+
+#### 📬 Let's Connect!
+
+![Connect](https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif)
+
+If you're interested in tech, collaboration, or just want to chat, reach out through any of the platforms below!
+
+- **[Portfolio](https://shamin-portfolio.netlify.app/)**
+- **[LinkedIn](https://www.linkedin.com/in/shamin-yasar-768a322a5/)**
+- **[GitHub](https://github.com/shamin2)**
 
 ---
 
-🔗 **Connect with me:** [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/shamin-yasar-768a322a5/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/shamin2)
+🔗 **Stay Connected!** [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/shamin-yasar-768a322a5/) | [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/shamin2)
+"""
+
