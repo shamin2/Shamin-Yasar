@@ -18,8 +18,6 @@ I'm a Full Stack and Software Developer, as well as a Machine Learning Enthusias
 
 #### 🚀 Tech Stack
 
-![TechStack](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif)
-
 - **Languages:** Java, Python, C, C#, HTML5, CSS3, JavaScript, TypeScript, PHP, MATLAB, R
 - **Frameworks/Libraries:** React.js, Flask, Flutter, Node.js, Express.js, TensorFlow
 - **Databases:** MySQL, SQLite, PostgreSQL, MongoDB
@@ -27,8 +25,6 @@ I'm a Full Stack and Software Developer, as well as a Machine Learning Enthusias
 - **Data Visualization:** PowerBI, Tableau, PowerPoint, Google Data Studio
 
 #### 🔨 Projects
-
-![Projects](https://media.giphy.com/media/MF0b2AmGHnh8b4tswu/giphy.gif)
 
 - **[Personal Portfolio Website](https://github.com/shamin2/Portfolio_Website)** - Built using React.js, integrated with Sanity CMS.
 - **[Spend Smart Web App](https://github.com/shamin2/Spend_Smart_App)** - A financial literacy web app designed to assist students in managing their budgets.
