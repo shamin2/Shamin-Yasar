@@ -9,7 +9,7 @@ I'm a Full Stack and Software Developer, as well as a Machine Learning Enthusias
 
 #### 🎓 Education
 
-![Education](https://media.giphy.com/media/l0IylOPCNkiqOgMyA/giphy.gif)
+![Education](https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif)
 
 - **Bachelor of Science in Computer Science, Minor in Mathematics**
 - **Memorial University of Newfoundland**
@@ -18,7 +18,7 @@ I'm a Full Stack and Software Developer, as well as a Machine Learning Enthusias
 
 #### 🚀 Tech Stack
 
-![TechStack](https://media.giphy.com/media/Rhhr8D5mKSX7O/giphy.gif)
+![TechStack](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif)
 
 - **Languages:** Java, Python, C, C#, HTML5, CSS3, JavaScript, TypeScript, PHP, MATLAB, R
 - **Frameworks/Libraries:** React.js, Flask, Flutter, Node.js, Express.js, TensorFlow
@@ -28,7 +28,7 @@ I'm a Full Stack and Software Developer, as well as a Machine Learning Enthusias
 
 #### 🔨 Projects
 
-![Projects](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Projects](https://media.giphy.com/media/MF0b2AmGHnh8b4tswu/giphy.gif)
 
 - **[Personal Portfolio Website](https://github.com/shamin2/Portfolio_Website)** - Built using React.js, integrated with Sanity CMS.
 - **[Spend Smart Web App](https://github.com/shamin2/Spend_Smart_App)** - A financial literacy web app designed to assist students in managing their budgets.
@@ -40,6 +40,10 @@ I'm a Full Stack and Software Developer, as well as a Machine Learning Enthusias
 #### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamin2&theme=radical&show_icons=true)
+
+#### 🌟 Most Used Languages
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shamin2&theme=radical&layout=compact)
 
 #### 🌟 Extracurriculars & Volunteering
 
@@ -54,10 +58,4 @@ I'm a Full Stack and Software Developer, as well as a Machine Learning Enthusias
 
 If you're interested in tech, collaboration, or just want to chat, reach out through any of the platforms below!
 
-- **[Portfolio](https://shamin-portfolio.netlify.app/)**
-- **[LinkedIn](https://www.linkedin.com/in/shamin-yasar-768a322a5/)**
-- **[GitHub](https://github.com/shamin2)**
-
----
-
-🔗 **Stay Connected!** [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/shamin-yasar-768a322a5/) | [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/shamin2)
+🔗 **[Portfolio](https://shamin-portfolio.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/shamin-yasar-768a322a5/) | [GitHub](https://github.com/shamin2)**
