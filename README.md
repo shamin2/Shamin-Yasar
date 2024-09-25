@@ -1,11 +1,9 @@
-# Enhanced version of the GitHub README with additional GIFs and better organization
 
-enhanced_readme_content = """
 ### Welcome to My GitHub! 👋 I'm Shamin Yasar!
 
 ![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
-As a passionate Computer Science student at Memorial University of Newfoundland, I thrive on building innovative solutions with React, Python, and beyond. I'm deeply committed to leveraging technology to solve complex problems and enhance everyday life.
+I'm a Full Stack and Software Developer, as well as a Machine Learning Enthusiast, studying Computer Science with a minor in Mathematics at Memorial University of Newfoundland. Dedicated to building scalable solutions, I am adept at creating web and software applications that enhance user experience and business processes.
 
 ---
 
@@ -20,12 +18,13 @@ As a passionate Computer Science student at Memorial University of Newfoundland,
 
 #### 🚀 Tech Stack
 
-![TechStack](https://media.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif)
+![TechStack](https://media.giphy.com/media/Rhhr8D5mKSX7O/giphy.gif)
 
-- **Languages:** Java, Python, C++, HTML, CSS, JavaScript
-- **Frameworks/Libraries:** React, Flask, TensorFlow, Node.js
-- **Databases:** MySQL, MongoDB
-- **Tools:** Git, VS Code, Jupyter
+- **Languages:** Java, Python, C, C#, HTML5, CSS3, JavaScript, TypeScript, PHP, MATLAB, R
+- **Frameworks/Libraries:** React.js, Flask, Flutter, Node.js, Express.js, TensorFlow
+- **Databases:** MySQL, SQLite, PostgreSQL, MongoDB
+- **Tools:** PyCharm, VS Code, Git, Jupyter, Eclipse, BlueJ, Anaconda, NumPy, TensorFlow, Jira, Postman
+- **Data Visualization:** PowerBI, Tableau, PowerPoint, Google Data Studio
 
 #### 🔨 Projects
 
@@ -37,6 +36,10 @@ As a passionate Computer Science student at Memorial University of Newfoundland,
 - **[Movie Recommender](https://github.com/shamin2/Movie-recommender-ML)** - Utilizes machine learning for personalized movie suggestions.
 - **[Ultimate Tic Tac Toe](https://github.com/shamin2/Ultimate-Tic-Tac-Toe-Game)** - A multiplayer game project enhancing traditional Tic Tac Toe.
 - **[Timely Tales App](https://github.com/shamin2/Timely-Tales)** - In development: Tracks personal goals, moods, and schedules.
+
+#### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamin2&theme=radical&show_icons=true)
 
 #### 🌟 Extracurriculars & Volunteering
 
@@ -58,5 +61,3 @@ If you're interested in tech, collaboration, or just want to chat, reach out thr
 ---
 
 🔗 **Stay Connected!** [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/shamin-yasar-768a322a5/) | [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/shamin2)
-"""
-
