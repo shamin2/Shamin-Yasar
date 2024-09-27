@@ -35,10 +35,6 @@ I'm a Full Stack and Software Developer, as well as a Machine Learning Enthusias
 
 Explore additional projects on GitHub, including "Willy the Virtual Pet", a pet simulator built with Python and Pygame, a dynamic "Memory Game," and an interactive "Easy Calculator" made using HTML, CSS, and JavaScript.
 
-#### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamin2&theme=radical&show_icons=true)
-
 #### 🌟 Most Used Languages
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shamin2&theme=radical&layout=compact)
